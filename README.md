@@ -44,8 +44,16 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 * Thanks to -.
 * Thank you -.
 
-###### Research footnotes for the first draft:
-* Health
+### Authors
+* **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/firstdrafthere) 
+* **Your name here** :wink:
+
+#### Additional contributors
+* **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
+* **Your name here** :wink:
+
+#### Research footnotes for the first draft:
+ Health
 1. [9 Ways a Lack of Sun is Killing You](https://www.sunsprite.com/blog/9-ways-a-lack-of-sun-is-killing-you/)
 2. [How long can you live without sunlight?](http://www.startribune.com/how-long-can-you-live-without-sunlight/166280516/)
 3. [Does living without access to sunlight for extended periods have known physical or psychological effects on humans?](https://worldbuilding.stackexchange.com/questions/394/does-living-without-access-to-sunlight-for-extended-periods-have-known-physical)
@@ -60,7 +68,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 12. [Creepy Things You Didn't Know About Falling To Your Death](https://www.ranker.com/list/what-its-like-to-fall-to-your-demise/katherine-ripley)
 13. [What Happens to Your Body When You Die of Fright](https://www.ranker.com/list/what-is-dying-of-fright-like/rylee_en)
 14. [Frozen Alive](https://www.outsideonline.com/2152131/freezing-death)
-* Climate	
+Climate	
 15. [Can humans survive a modern ice age with existing technology?](https://www.quora.com/Can-humans-survive-a-modern-ice-age-with-existing-technology)
 16. [Would the human race survive another Ice Age?](https://www.quora.com/Would-the-human-race-survive-another-Ice-Age)
 17. [What would happen if: The UK entered an ice age?](https://www.wired.co.uk/article/what-would-happen-if-the-uk-entered-an-ice-age)
@@ -70,7 +78,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 21. [Ice Age - Wikipedia](https://en.wikipedia.org/wiki/Ice_age)
 22. [Will global warming trigger a new ice age?](https://www.theguardian.com/environment/2003/nov/13/comment.research)
 23. [Could reversing global warming start an ice age?](https://science.howstuffworks.com/environmental/green-science/question780.html)
-* Human Trafficking
+Human Trafficking
 24. [People smuggling](https://en.wikipedia.org/wiki/People_smuggling)
 25. [Smuggling of migrants](https://migrationdataportal.org/themen/menschenschmuggel)
 26. [Smuggling of migrants: the harsh search for a better life](https://www.unodc.org/toc/en/crimes/migrant-smuggling.html)
@@ -87,7 +95,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 37. [Responding to the Human Trafficking – Migrant Smuggling Nexus](https://reliefweb.int/sites/reliefweb.int/files/resources/Reitano-McCormack-Trafficking-Smuggling-Nexus-in-Libya-July-2018.pdf)
 38. [Migrant Smuggling](https://ec.europa.eu/home-affairs/what-we-do/policies/irregular-migration-return-policy/facilitation-irregular-migration_en)
 39. [Why Take the Risk? Explaining Migrant Smuggling](https://link.springer.com/chapter/10.1057/9780230307155_4)	
-*Surviving winter	
+Surviving winter	
 40. [How Did People Survive the Winter Hundreds of Years Ago?](https://blogs.ancestry.com/cm/how-did-people-survive-the-winter-years-ago/)
 41. [How did peasants in the Middle Ages survive the winter?](https://ask.metafilter.com/266935/How-did-peasants-in-the-Middle-Ages-survive-the-winter)
 42. [How did people survive the winter hundreds of years ago?](https://www.reddit.com/r/AskReddit/comments/fcd48/how_did_people_survive_the_winter_hundreds_of/)
@@ -101,10 +109,3 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 50. [Ten Essentials](https://en.wikipedia.org/wiki/Ten_Essentials)
 51. [Mini survival kit](https://en.wikipedia.org/wiki/Mini_survival_kit)
 
-### Authors
-* **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/firstdrafthere) 
-* **Your name here** :wink:
-
-#### Additional contributors
-* **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
-* **Your name here** :wink:
