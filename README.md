@@ -30,7 +30,7 @@ As this screenplay is open source, anybody is welcome to clone the repo, tinker,
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!). 
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
 * :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
-* :computer: [Fountain.vim](https://atom.io/packages/fountain) - Fountain package for Atom with syntax highlighting and utilities.
+* :computer: [Fountain Package](https://atom.io/packages/fountain) - Fountain plugin for Atom with syntax highlighting and utilities.
 
 ### License
 
@@ -52,8 +52,8 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 * **Ludvig Geijer Michaeli** - *Transcribed the 1st draft*
 * **Your name here** :wink:
 
-#### Research footnotes for the first draft:
- Health
+### "Reasearch":
+
 1. [9 Ways a Lack of Sun is Killing You](https://www.sunsprite.com/blog/9-ways-a-lack-of-sun-is-killing-you/)
 2. [How long can you live without sunlight?](http://www.startribune.com/how-long-can-you-live-without-sunlight/166280516/)
 3. [Does living without access to sunlight for extended periods have known physical or psychological effects on humans?](https://worldbuilding.stackexchange.com/questions/394/does-living-without-access-to-sunlight-for-extended-periods-have-known-physical)
@@ -68,7 +68,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 12. [Creepy Things You Didn't Know About Falling To Your Death](https://www.ranker.com/list/what-its-like-to-fall-to-your-demise/katherine-ripley)
 13. [What Happens to Your Body When You Die of Fright](https://www.ranker.com/list/what-is-dying-of-fright-like/rylee_en)
 14. [Frozen Alive](https://www.outsideonline.com/2152131/freezing-death)
-Climate	
 15. [Can humans survive a modern ice age with existing technology?](https://www.quora.com/Can-humans-survive-a-modern-ice-age-with-existing-technology)
 16. [Would the human race survive another Ice Age?](https://www.quora.com/Would-the-human-race-survive-another-Ice-Age)
 17. [What would happen if: The UK entered an ice age?](https://www.wired.co.uk/article/what-would-happen-if-the-uk-entered-an-ice-age)
@@ -78,7 +77,6 @@ Climate
 21. [Ice Age - Wikipedia](https://en.wikipedia.org/wiki/Ice_age)
 22. [Will global warming trigger a new ice age?](https://www.theguardian.com/environment/2003/nov/13/comment.research)
 23. [Could reversing global warming start an ice age?](https://science.howstuffworks.com/environmental/green-science/question780.html)
-Human Trafficking
 24. [People smuggling](https://en.wikipedia.org/wiki/People_smuggling)
 25. [Smuggling of migrants](https://migrationdataportal.org/themen/menschenschmuggel)
 26. [Smuggling of migrants: the harsh search for a better life](https://www.unodc.org/toc/en/crimes/migrant-smuggling.html)
@@ -90,12 +88,11 @@ Human Trafficking
 32. [People smuggling in the Central Mediterranean](https://frontex.europa.eu/media-centre/focus/people-smuggling-in-the-central-mediterranean-t1XR06)
 33. [Questions and Answers: Smuggling and Trafficking Human Beings](https://reliefweb.int/report/world/questions-and-answers-smuggling-and-trafficking-human-beings)
 34. [Human trafficking and migrant smuggling](https://www.unodc.org/e4j/en/secondary/human-trafficking-and-migrant-smuggling.html)
-35. [The fight to stop Mediterranean people-smuggling starts on land, not at sea](https://www.theguardian.com/commentisfree/2017/jul/13/mediterranean-people-smuggling-sea-lords-inquiry-uk-eu-ngo#comments
+35. [The fight to stop Mediterranean people-smuggling starts on land, not at sea](https://www.theguardian.com/commentisfree/2017/jul/13/mediterranean-people-smuggling-sea-lords-inquiry-uk-eu-ngo#comments)
 36. [EU-UK naval mission on people-smuggling led to more deaths, report says](https://www.theguardian.com/world/2017/jul/11/eu-naval-tactics-operation-sophia-stop-people-smuggling-cause-more-deaths-report-says)
 37. [Responding to the Human Trafficking – Migrant Smuggling Nexus](https://reliefweb.int/sites/reliefweb.int/files/resources/Reitano-McCormack-Trafficking-Smuggling-Nexus-in-Libya-July-2018.pdf)
 38. [Migrant Smuggling](https://ec.europa.eu/home-affairs/what-we-do/policies/irregular-migration-return-policy/facilitation-irregular-migration_en)
 39. [Why Take the Risk? Explaining Migrant Smuggling](https://link.springer.com/chapter/10.1057/9780230307155_4)	
-Surviving winter	
 40. [How Did People Survive the Winter Hundreds of Years Ago?](https://blogs.ancestry.com/cm/how-did-people-survive-the-winter-years-ago/)
 41. [How did peasants in the Middle Ages survive the winter?](https://ask.metafilter.com/266935/How-did-peasants-in-the-Middle-Ages-survive-the-winter)
 42. [How did people survive the winter hundreds of years ago?](https://www.reddit.com/r/AskReddit/comments/fcd48/how_did_people_survive_the_winter_hundreds_of/)
@@ -108,4 +105,32 @@ Surviving winter
 49. [Survival skills](https://en.wikipedia.org/wiki/Survival_skills)
 50. [Ten Essentials](https://en.wikipedia.org/wiki/Ten_Essentials)
 51. [Mini survival kit](https://en.wikipedia.org/wiki/Mini_survival_kit)
+52. [Volcanic winter - Wikipedia](https://en.wikipedia.org/wiki/Volcanic_winter)
+53. [Impact winter - Wikipedia](https://en.wikipedia.org/wiki/Impact_winter)
+54. [Nuclear winter - Wikipedia](https://en.wikipedia.org/wiki/Nuclear_winter)
+55. [Year Without a Summer - Wikipedia](https://en.wikipedia.org/wiki/Year_Without_a_Summer)
+56. [Toba catastrophe theory - Wikipedia](https://en.wikipedia.org/wiki/Toba_catastrophe_theory)
+57. [Extreme weather events of 535–536](https://en.wikipedia.org/wiki/Extreme_weather_events_of_535%E2%80%93536)
+58. [Great Famine of 1315–1317 - Wikipedia](https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317)
+59. [Russian famine of 1601–03 - Wikipedia](https://en.wikipedia.org/wiki/Russian_famine_of_1601%E2%80%9303)
+60. [Laki](https://en.wikipedia.org/wiki/Laki)
+61. [2010 eruptions of Eyjafjallajökull - Wikipedia](https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallaj%C3%B6kull)
+62. [1883 eruption of Krakatoa - Wikipedia](https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa)
+63. [Weatherwatch: Would modern humans survive a volcanic winter?](https://www.theguardian.com/news/2012/nov/30/weatherwatch-volcano-ash-winter-eruption)
+64. [How safe are we from a catastrophic volcanic winter? Brace yourself!](https://independentaustralia.net/environment/environment-display/how-safe-are-we-from-a-catastrophic-volcanic-winter-brace-yourself,8858)
+65. [The Number Of Volcanic Eruptions Is Increasing And That Could Lead To An Extremely Cold Winter](http://theeconomiccollapseblog.com/archives/the-number-of-volcanic-eruptions-is-increasing-and-that-could-lead-to-an-extremely-cold-winter)
+66. [1816, the Year Without a Summer | The Eruption of Mount Tambora](https://www.headstuff.org/culture/history/mount-tambora-1816-eruption/)
+67. [Vulkanvinter vid våren, hur påverkas matförråden? - Flashback](https://www.flashback.org/t1862676)
+68. [Vulkanutbrott kyler klimatet - Naturvårdsverket](https://www.naturvardsverket.se/Sa-mar-miljon/Klimat-och-luft/Klimat/Darfor-blir-det-varmare/Vulkanutbrott-kyler-klimatet/)
+69. [Vulkanerna kyler ner klimatet - Allt om vetenskap](https://tomaslindblad.se/Fornyade/Vulkaner.html)
+70. [När vi fick Vulkanvinter - Johans Fotoblogg](https://johansfotoblogg.blogspot.com/2016/07/nar-vi-fick-vulkanvinter.html)
+71. [How To Begin Prepping](https://besurvival.com/guides/how-to-begin-prepping)
+72. [Prepping: 10 simple ideas on how to start](https://graywolfsurvival.com/1779/prepping-10-simple-ideas-start/)
+73. [21 Prepper Tips I Wish I’d Heard BEFORE I Started Prepping](https://urbansurvivalsite.com/prepper-tips-i-wish-id-heard-before-i-started-prepping/)
+74. [Emergency preparedness checklist: Prepping for beginners](https://theprepared.com/prepping-basics/guides/emergency-preparedness-checklist-prepping-beginners/)
+75. [Top 20 Prepping Mistakes to Avoid](https://urbansurvivalsite.com/prepping-mistakes/)
+76. [Prepping Mistakes So Stupid You Won’t Believe that You Are Making Them](https://www.primalsurvivor.net/prepping-mistakes/)
+77. [43 Prepping Mistakes to Never-Ever Make](https://www.survivalsullivan.com/prepping-mistakes-all-of-them-are-here/)
+78. [Basic Prepping Mistakes](https://www.ukpreppersguide.co.uk/basic-prepping-mistakes/)
+79. [Common Prepping Mistakes](https://www.happypreppers.com/mistakes.html)
 
