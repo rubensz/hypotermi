@@ -1,8 +1,10 @@
-# HYPOTERMI [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
+# HYPOTERMI [screenplay] :clapper: :movie_camera: :page_with_curl:
 
 ### Tagline
 Two families are faced with the dilemma to either flee or hunker down during a coming ice age in Sweden. 
-(If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
+
+### Github x Screenwriting
+If you're wondering why the heck this screenplay is on Github – mainly a platform for coding – or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
 
 ### Read the screenplay :page_facing_up:
 
@@ -14,7 +16,10 @@ This screenplay is currently in Swedish but I hope to have it translated soon so
 ### Project status
 Last change made: 01/29/2018
 Current status: Screenplay is in development and open for pushing commits. 
+
+### Moodboard
 ![hypotermi-moodboard](moodboard.png?raw=true)     
+
 ### Cloning
 
 ```
@@ -29,18 +34,15 @@ As this screenplay is open source, anybody is welcome to clone the repo, tinker,
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
 * :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
 * :computer: [Fountain Package](https://atom.io/packages/fountain) - Fountain plugin for Atom with syntax highlighting and utilities.
+  
 ![screencapture](screencapture.gif?raw=true)     
+
 ### License
 
 This project is licensed under the Creative Commons Attribution 4.0 International
  - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-
-#### From the maintainer; Ruben Sznajderman
-
-* Thanks to -.
-* Thank you -.
 
 ### Authors
 * **Ruben Sznajderman** - [*Initial work*](https://www.dropbox.com/s/firstdrafthere) 
@@ -52,9 +54,9 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ### "Reasearch":
 
-1. [9 Ways a Lack of Sun is Killing You](https://www.sunsprite.com/blog/9-ways-a-lack-of-sun-is-killing-you/)
-2. [How long can you live without sunlight?](http://www.startribune.com/how-long-can-you-live-without-sunlight/166280516/)
-3. [Does living without access to sunlight for extended periods have known physical or psychological effects on humans?](https://worldbuilding.stackexchange.com/questions/394/does-living-without-access-to-sunlight-for-extended-periods-have-known-physical)
+1. [Common Prepping Mistakes](https://www.happypreppers.com/mistakes.html)
+2. [Basic Prepping Mistakes](https://www.ukpreppersguide.co.uk/basic-prepping-mistakes/)
+3. [43 Prepping Mistakes to Never-Ever Make](https://www.survivalsullivan.com/prepping-mistakes-all-of-them-are-here/)
 4. [From Fertility To Mood, Sunlight Found To Affect Human Biology](https://www.nytimes.com/1981/06/23/science/from-fertility-to-mood-sunlight-found-to-affect-human-biology.html)
 5. [Staying out of the sun can wreck your health: How one in four Britons is worryingly low in vitamin D](https://www.dailymail.co.uk/health/article-2120719/Staying-sun-wreck-health.html)
 6. [Childhood scurvy: an unusual cause of refusal to walk in a child](https://ped-rheum.biomedcentral.com/articles/10.1186/s12969-015-0020-1)
@@ -128,7 +130,6 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 74. [Emergency preparedness checklist: Prepping for beginners](https://theprepared.com/prepping-basics/guides/emergency-preparedness-checklist-prepping-beginners/)
 75. [Top 20 Prepping Mistakes to Avoid](https://urbansurvivalsite.com/prepping-mistakes/)
 76. [Prepping Mistakes So Stupid You Won’t Believe that You Are Making Them](https://www.primalsurvivor.net/prepping-mistakes/)
-77. [43 Prepping Mistakes to Never-Ever Make](https://www.survivalsullivan.com/prepping-mistakes-all-of-them-are-here/)
-78. [Basic Prepping Mistakes](https://www.ukpreppersguide.co.uk/basic-prepping-mistakes/)
-79. [Common Prepping Mistakes](https://www.happypreppers.com/mistakes.html)
-
+77. [How long can you live without sunlight?](http://www.startribune.com/how-long-can-you-live-without-sunlight/166280516/)
+78. [Does living without access to sunlight for extended periods have known physical or psychological effects on humans?](https://worldbuilding.stackexchange.com/questions/394/does-living-without-access-to-sunlight-for-extended-periods-have-known-physical)
+79. [9 Ways a Lack of Sun is Killing You](https://www.sunsprite.com/blog/9-ways-a-lack-of-sun-is-killing-you/)
