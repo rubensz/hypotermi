@@ -1,9 +1,7 @@
 # HYPOTERMI [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
 ### Tagline
-![hypotermi-moodboard](hypotermi-moodboard.png?raw=true)     
 Two families are faced with the dilemma to either flee or hunker down during a coming ice age in Sweden. 
-![screencapture](screencapture.gif?raw=true)     
 (If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
 
 ### Read the screenplay :page_facing_up:
@@ -16,7 +14,7 @@ This screenplay is currently in Swedish but I hope to have it translated soon so
 ### Project status
 Last change made: 01/29/2018
 Current status: Screenplay is in development and open for pushing commits. 
-
+![hypotermi-moodboard](moodboard.png?raw=true)     
 ### Cloning
 
 ```
@@ -31,7 +29,7 @@ As this screenplay is open source, anybody is welcome to clone the repo, tinker,
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
 * :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
 * :computer: [Fountain Package](https://atom.io/packages/fountain) - Fountain plugin for Atom with syntax highlighting and utilities.
-
+![screencapture](screencapture.gif?raw=true)     
 ### License
 
 This project is licensed under the Creative Commons Attribution 4.0 International
