@@ -3,7 +3,7 @@
 ### Tagline
 Two families are faced with the dilemma to either flee or hunker down during a coming ice age in Sweden. 
 
-### Github x Screenwriting
+### Github x screenwriting
 If you're wondering why the heck this screenplay is on Github – mainly a platform for coding – or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
 
 ### Read the screenplay :page_facing_up:
@@ -32,8 +32,8 @@ As this screenplay is open source, anybody is welcome to clone the repo, tinker,
 #### Built With
 * :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!). 
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
-* :computer: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
-* :computer: [Fountain Package](https://atom.io/packages/fountain) - Fountain plugin for Atom with syntax highlighting and utilities.
+* :atom_symbol: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
+* :package: [Fountain Package](https://atom.io/packages/fountain) - Fountain plugin for Atom with syntax highlighting and utilities.
   
 ![screencapture](screencapture.gif?raw=true)     
 
