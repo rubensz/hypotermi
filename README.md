@@ -1,9 +1,9 @@
 # HYPOTERMI [SCREENPLAY] :clapper: :movie_camera: :page_with_curl:
 
 ### Tagline
-
+![hypotermi-moodboard](hypotermi-moodboard.png?raw=true)     
 Two families are faced with the dilemma to either flee or hunker down during a coming ice age in Sweden. 
-
+![screencapture](screencapture.gif?raw=true)     
 (If you're wondering why the heck this screenplay is on Github or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
 
 ### Read the screenplay :page_facing_up:
