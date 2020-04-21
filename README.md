@@ -18,7 +18,7 @@ Last change made: 01/29/2018
 Current status: Screenplay is in development and open for pushing commits. 
 
 ### Moodboard
-![hypotermi-moodboard](moodboard.png?raw=true)     
+![bts](hedda_axelsson.png?raw=true)     
 
 ### Cloning
 
