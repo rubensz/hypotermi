@@ -1,41 +1,54 @@
 # HYPOTERMI [screenplay] :clapper: :movie_camera: :page_with_curl:
 
-### Tagline
-Two families are faced with the dilemma to either flee or hunker down during a coming ice age in Sweden. 
+![inspiration1](images/simon1.jpg?raw=true)     
+by Simon Ståhlenhag
 
-### Github x screenwriting
-If you're wondering why the heck this screenplay is on Github – mainly a platform for coding – or you don't know anything about git, repos or fountain – see this [short introduction](http://rubensznajderman.com/fountain-noobs).)
-
-### Read the screenplay :page_facing_up:
-
-The latest version of the script can be downloaded as a PDF from [here](https://github.com/user/repo/blob/master/hypotermi.pdf).
-
-### Language
-This screenplay is currently in Swedish but I hope to have it translated soon so that all the screenplays on my github are in English. 
+### About
+This is the repository for the screenplay of the feature film Hypotermia. The story is about two families are faced with the dilemma to either flee or hunker down during a coming ice age in Sweden. 
 
 ### Project status
-Last change made: 01/29/2018
+Last change made: 01/29/2018  
 Current status: Screenplay is in development and open for pushing commits. 
 
-### Moodboard
-![bts](hedda_axelsson.png?raw=true)     
+### The covid-19 pandemic 
+Added: April 2020  
+Allthough not being about a pandemic, this post apocalyptic story has some similar themes such as prepping, hoarding, masshysteria, raiding gangs, etc. I wrote this screenplay back in 2018, almost at the peak of the pre-pandemic boom. 
+
+![inspiration2](images/simon2.jpg?raw=true)     
+by Simon Ståhlenhag
+
+### Github x screenwriting
+If you're wondering why the heck this screenplay is on Github (mainly a platform for coding), or you don't know anything about git, repos or fountain – see this [short introduction](https://wraparound.github.io/) at the Wrap's website.
+
+### Read the screenplay :page_facing_up:
+The latest version of the script can be downloaded as a PDF from [here](https://github.com/user/repo/blob/master/hypotermia.pdf).
+
+### Language
+Currently the script is written in Swedish but I'm planning on making the English the `HEAD` of the repository. 
+<!--This story takes place in Sweden but is written in English, kinda like the English version of The Girl With the Dragon Tattoo. First draft was written in Swedish but I decided to make a English-speaking fork and make that version the `HEAD` of the repository, i.e what you see now. To see the Swedish version, see the Swedish branch.-->
+
+
+
+![inspiration3](images/simon3.jpg?raw=true)     
+by Simon Ståhlenhag
 
 ### Cloning
 
 ```
-git clone https://github.com/user/hypotermi.git
+git clone https://github.com/user/hypotermia.git
 ```
 
 ### Contribute
 As this screenplay is open source, anybody is welcome to clone the repo, tinker, edit, comment, improve and push the code back to the repository – just like any other open source code. The [maintainer](https://github.com/rubensz) will review and merge accepted contributions to the main branch. All contributors will be credited when the script goes into production. 
 
 #### Built With
-* :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, an actual pen that you hold in your hand!). 
+* :black_nib: [Pilot](https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pens/ct/1706) - First draft was written with a pen (yes, actual pen that you hold in your hand!). 
 * :computer: [Fountain Syntax](https://fountain.io/syntax) - Plain text markup language for screenplays.
-* :atom_symbol: [Atom](https://atom.io/) - Atom is a free and open-source text and source code editor.
-* :package: [Fountain Package](https://atom.io/packages/fountain) - Fountain plugin for Atom with syntax highlighting and utilities.
-  
-![screencapture](screencapture.gif?raw=true)     
+* :computer: [Vim](https://www.vim.org/download.php) - Vim is a modal text editor.
+* :computer: [Fountain.vim](https://www.vim.org/scripts/script.php?script_id=3880) - Syntax files that adds support for Fountain in Vim.
+* :scroll:[Wrap](https://wraparound.github.io/) - Terminal application that converts files written in Fountain to the industry standard screenplay format in PDF.
+
+![screencapture](images/screencapture.gif?raw=true)     
 
 ### License
 
